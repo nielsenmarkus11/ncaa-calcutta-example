@@ -1,6 +1,9 @@
 library(NCAAcalcutta)
 library(dplyr)
 library(tidyr)
+
+Sys.setenv('http_proxy'='')
+Sys.setenv('https_proxy'='')
 invited <- get_tournament_scores('mens') %>% 
   filter(round==1) %>% 
   select(region, team1_seed, team2_seed, team1_id, team2_id) %>% 
