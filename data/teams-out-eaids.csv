@@ -23,13 +23,13 @@
 25,15,East,Grand Canyon Antelopes,Iowa Hawkeyes,2,Brandon,45
 26,13,East,Ohio Bobcats,Virginia Cavaliers,2,Mark,55
 27,9,Midwest,Georgia Tech Yellow Jackets,Loyola Chicago Ramblers,2,James,100
-28,11,East,Michigan St./UCLA,USC Trojans,2,Brandon,65
+28,11,West,UCLA Bruins,BYU Cougars,2,Brandon,65
 29,7,East,Oregon Ducks,VCU Rams,2,Peilin,115
 30,14,West,Abilene Christian Wildcats,Texas Longhorns,2,James,50
 31,8,Midwest,Loyola Chicago Ramblers,Georgia Tech Yellow Jackets,2,Mark,90
 32,4,East,Virginia Cavaliers,Ohio Bobcats,2,Peilin,235
 33,2,West,Alabama Crimson Tide,Iona Gaels,2,Peilin,280
-34,16,East,Mount St. Mary's/Texas Southern,Gonzaga Bulldogs,2,Shawn,45
+34,16,West,Texas Southern Tigers,Michigan Wolverines,2,Shawn,45
 35,1,Midwest,Illinois Fighting Illini,Drexel Dragons,2,Aniket,245
 36,14,East,Eastern Washington Eagles,Kansas Jayhawks,3,James,50
 37,11,Midwest,Syracuse Orange,San Diego State Aztecs,3,Brandon,75
@@ -50,12 +50,12 @@
 52,15,Midwest,Cleveland State Vikings,Houston Cougars,4,Shawn,45
 53,3,Midwest,West Virginia Mountaineers,Morehead State Eagles,4,Shawn,125
 54,1,West,Michigan Wolverines,Norfolk St./Appalachian St.,4,Shawn,240
-55,11,West,Wichita St./Drake,BYU Cougars,4,Brandon,60
+55,11,East,Drake Bulldogs,USC Trojans,4,Brandon,60
 56,13,Midwest,Liberty Flames,Oklahoma State Cowboys,4,Shawn,60
 57,7,South,Florida Gators,Virginia Tech Hokies,4,James,90
 58,4,Midwest,Oklahoma State Cowboys,Liberty Flames,4,Shawn,140
 59,6,East,USC Trojans,Michigan St./UCLA,4,Aniket,95
-60,16,West,Norfolk St./Appalachian St.,Michigan Wolverines,4,Shawn,45
+60,16,East,Norfolk State Spartans,Gonzaga Bulldogs,4,Shawn,45
 61,12,Midwest,Oregon State Beavers,Tennessee Volunteers,4,Brandon,70
 62,9,East,Missouri Tigers,Oklahoma Sooners,4,Brandon,60
 63,2,South,Ohio State Buckeyes,Oral Roberts Golden Eagles,4,Shawn,200

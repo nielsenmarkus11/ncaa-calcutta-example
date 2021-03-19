@@ -5,3 +5,5 @@ rsconnect::setAccountInfo(name='mnielsen',
 rsconnect::deployApp(appName = 'ncaa-calcutta-eaids')
 
 rsconnect::deployApp(appName = 'ncaa-calcutta-castell')
+
+rsconnect::deployApp(appName = 'ncaa-calcutta-2021')

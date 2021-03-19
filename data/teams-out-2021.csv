@@ -1,0 +1,65 @@
+,rank,region,team,opponent,group,owner,bid
+2,13,South,North Texas Mean Green,Purdue Boilermakers,1,Mark,50
+3,10,South,Virginia Tech Hokies,Florida Gators,1,Nate,60
+4,3,West,Texas Longhorns,Abilene Christian Wildcats,1,Brad,200
+5,11,South,Utah State Aggies,Texas Tech Red Raiders,1,Nate,60
+6,9,South,Wisconsin Badgers,North Carolina Tar Heels,1,Brad,80
+7,1,East,Gonzaga Bulldogs,Norfolk State Spartans,1,Dave,360
+8,15,West,Iona Gaels,Alabama Crimson Tide,1,Brad,70
+9,14,Midwest,Morehead State Eagles,West Virginia Mountaineers,1,Ammon,70
+10,12,East,UC Santa Barbara Gauchos,Creighton Bluejays,1,Ammon,80
+11,2,East,Iowa Hawkeyes,Grand Canyon Antelopes,1,Brad,230
+12,7,Midwest,Clemson Tigers,Rutgers Scarlet Knights,1,Jared,120
+13,16,South,Hartford Hawks,Baylor Bears,1,Ammon,70
+14,6,West,BYU Cougars,UCLA Bruins,1,Mark,110
+15,4,South,Purdue Boilermakers,North Texas Mean Green,1,Nate,180
+16,5,West,Colorado Buffaloes,Georgetown Hoyas,1,Ammon,150
+17,8,East,Oklahoma Sooners,Missouri Tigers,2,Brad,140
+18,5,Midwest,Tennessee Volunteers,Oregon State Beavers,2,Nate,140
+19,3,East,Kansas Jayhawks,Eastern Washington Eagles,2,Mark,260
+20,12,South,Winthrop Eagles,Villanova Wildcats,2,Brad,90
+21,10,Midwest,Rutgers Scarlet Knights,Clemson Tigers,2,Dave,80
+22,6,Midwest,San Diego State Aztecs,Syracuse Orange,2,Ammon,120
+23,15,East,Grand Canyon Antelopes,Iowa Hawkeyes,2,Ammon,60
+24,13,East,Ohio Bobcats,Virginia Cavaliers,2,Dave,70
+25,9,Midwest,Georgia Tech Yellow Jackets,Loyola Chicago Ramblers,2,Mark,90
+26,11,East,Drake Bulldogs,USC Trojans,2,Dave,70
+27,7,East,Oregon Ducks,VCU Rams,2,Jared,110
+28,14,West,Abilene Christian Wildcats,Texas Longhorns,2,Ammon,60
+29,8,Midwest,Loyola Chicago Ramblers,Georgia Tech Yellow Jackets,2,Mark,90
+30,4,East,Virginia Cavaliers,Ohio Bobcats,2,Mark,220
+31,2,West,Alabama Crimson Tide,Iona Gaels,2,Mark,270
+32,16,East,Norfolk State Spartans,Gonzaga Bulldogs,2,Ammon,60
+33,1,Midwest,Illinois Fighting Illini,Drexel Dragons,3,Jared,300
+34,14,East,Eastern Washington Eagles,Kansas Jayhawks,3,Ammon,70
+35,11,Midwest,Syracuse Orange,San Diego State Aztecs,3,Brad,130
+37,10,West,Maryland Terrapins,UConn Huskies,3,Brad,120
+38,3,South,Arkansas Razorbacks,Colgate Raiders,3,Brad,160
+39,8,West,LSU Tigers,St. Bonaventure Bonnies,3,Dave,150
+40,13,West,UNC Greensboro Spartans,Florida State Seminoles,3,Ammon,70
+41,15,South,Oral Roberts Golden Eagles,Ohio State Buckeyes,3,Ammon,70
+42,2,Midwest,Houston Cougars,Cleveland State Vikings,3,Dave,270
+43,9,West,St. Bonaventure Bonnies,LSU Tigers,3,Mark,100
+44,12,West,Georgetown Hoyas,Colorado Buffaloes,3,Dave,120
+45,5,East,Creighton Bluejays,UC Santa Barbara Gauchos,3,Nate,140
+46,1,South,Baylor Bears,Hartford Hawks,3,Jared,280
+47,4,West,Florida State Seminoles,UNC Greensboro Spartans,3,Nate,170
+48,6,South,Texas Tech Red Raiders,Utah State Aggies,3,Ammon,110
+49,16,Midwest,Drexel Dragons,Illinois Fighting Illini,3,Mark,50
+50,7,West,UConn Huskies,Maryland Terrapins,4,Nate,90
+51,15,Midwest,Cleveland State Vikings,Houston Cougars,4,Ammon,70
+52,3,Midwest,West Virginia Mountaineers,Morehead State Eagles,4,Dave,110
+53,1,West,Michigan Wolverines,Texas Southern Tigers,4,Jared,180
+54,11,West,UCLA Bruins,BYU Cougars,4,Ammon,70
+55,13,Midwest,Liberty Flames,Oklahoma State Cowboys,4,Ammon,70
+56,7,South,Florida Gators,Virginia Tech Hokies,4,Nate,70
+57,4,Midwest,Oklahoma State Cowboys,Liberty Flames,4,Jared,100
+58,6,East,USC Trojans,Drake Bulldogs,4,Nate,100
+59,16,West,Texas Southern Tigers,Michigan Wolverines,4,Ammon,50
+60,12,Midwest,Oregon State Beavers,Tennessee Volunteers,4,Mark,40
+61,9,East,Missouri Tigers,Oklahoma Sooners,4,Nate,40
+62,2,South,Ohio State Buckeyes,Oral Roberts Golden Eagles,4,Nate,110
+63,14,South,Colgate Raiders,Arkansas Razorbacks,4,Jared,40
+64,8,South,North Carolina Tar Heels,Wisconsin Badgers,4,Nate,60
+65,5,South,Villanova Wildcats,Winthrop Eagles,4,Jared,40
+66,10,East,VCU Rams,Oregon Ducks,4,Brad,30
